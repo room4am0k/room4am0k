@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hola, soy Diego (room4am0k)
 
-<!--
-**room4am0k/room4am0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador enfocado en **backend**, actualmente aprendiendo y profundizando en **Golang**, con experiencia previa en **PHP** trabajando sobre proyectos de empresas privadas. Me interesa especialmente la construcción de servicios eficientes, APIs, y herramientas que interactúan con bases de datos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 En qué estoy trabajando
+
+Actualmente estoy desarrollando proyectos personales usando Go, poniendo el foco en:
+- Buen diseño de APIs REST
+- Conexiones seguras y limpias con bases de datos
+- Mantenimiento y limpieza de datos con procesos paralelos
+- Uso de estructuras simples pero efectivas para resolver problemas reales
+
+---
+
+## 🧰 Tecnologías
+
+- **Lenguajes**: Go, PHP, SQL
+- **Bases de datos**: MySQL
+- **Herramientas**: Git, `chi` (router Go), cron
+- **Interés actual**: herramientas de línea de comandos, backend limpio, automatización
+
+---
+
+## 🎯 Objetivos
+
+Estoy interesado en:
+- Desarrollar soluciones backend robustas y mantenibles
+- Contribuir a proyectos con fines sociales o educativos
+- Trabajar de forma remota en equipos técnicos con propósito
+- Aprender y crecer con tecnologías enfocadas en eficiencia y claridad
+
+---
+
+> ✍️ Este perfil está en construcción — estoy trabajando en mis primeros proyectos públicos, que pronto estarán disponibles aquí.
