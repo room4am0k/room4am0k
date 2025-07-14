@@ -29,7 +29,6 @@ Estoy interesado en:
 - Desarrollar soluciones backend robustas y mantenibles
 - Contribuir a proyectos con fines sociales o educativos
 - Trabajar de forma remota en equipos técnicos con propósito
-- Aprender y crecer con tecnologías enfocadas en eficiencia y claridad
 
 ---
 
